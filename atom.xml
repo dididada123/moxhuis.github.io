@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>反正都是随便写</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://moxhuis.github.io/"/>
+  <updated>2017-07-24T02:27:58.000Z</updated>
+  <id>http://moxhuis.github.io/</id>
+  
+  <author>
+    <name>moxhuis</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谈谈社交这回事</title>
+    <link href="http://moxhuis.github.io/2017/07/24/%E8%B0%88%E8%B0%88%E7%A4%BE%E4%BA%A4%E8%BF%99%E5%9B%9E%E4%BA%8B/"/>
+    <id>http://moxhuis.github.io/2017/07/24/谈谈社交这回事/</id>
+    <published>2017-07-24T02:27:40.000Z</published>
+    <updated>2017-07-24T02:27:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="谈谈社交这回事"><a href="#谈谈社交这回事" class="headerlink" title="谈谈社交这回事"></a>谈谈社交这回事</h3><p>我是一个不太有朋友而且也没有什么交朋友的技巧的人。
+作为技术宅，更是坚信只有技术才能创造价值。
+写代码是硬功夫，代码漂亮完善性能好占用资源少，都是可以被衡量的，但是”社交“不能被衡量，不能像”花了2h学会了python web基础“一样有明确的时间消耗和产出结果。
+大部分的时间都是在钻研技术，写代码看书，打打游戏，跟人打交道的时间很少，沟通都是追求简单直接。</p>
+<p>最近一段时间发现，社交已经成为了目前的一个瓶颈。
+首先工作内容更多的转变到沟通方面：跟团队成员、其他职能部门、淘宝等合作公司的沟通
+其次对于个人而言，未来一段时间的目标不再是单纯的技术进步，需要更多的与别人加强沟通，积累人脉。</p>
+<p>回顾了一下之前的社交生活。
+初中高中不细表，人设基本就是个情商很低的“学霸”，想交朋友但不太会处理人际关系的。
+大学相反，成了喜欢邪门歪道的“学渣”。年年挂科，对于专业课毫无兴趣。天天吐槽山大的官僚主义和高三般的应试教育，跟大部分勤恳本份的同学格格不入。
+毕业的前几年，转行跳槽技术进步，每年都会发现跟之前的同事越来越远。
+最近几年，大部分时间都在研究技术。程序员之间的交流方式直来直往，社交的能力基本没啥长进，也没什么成果。</p>
+<p>总体来说，过去的几十年里，社交这个事情对我来说确实是非常失败的。
+没有什么正面的方法，倒也反思出了一些感悟：</p>
+<h4 id="社交是必需的的社会产物"><a href="#社交是必需的的社会产物" class="headerlink" title="社交是必需的的社会产物"></a>社交是必需的的社会产物</h4><blockquote>
+<p>我们变成人的一部分要求是：获取理解、思考和感受的方式。而我们“个体”的知识总是社会的产物。我们所知道的，取决于我们与他人的关系这一本质，超越个人主义并接受那些使我们成为我们现在所是的关系。通过这样做，我们就能发现我们拥有知识的局限所在，并能看到如何以那种允许我们在这个世界上更负责任地生活的方式去增加它。—-《生活的暗面》</p>
+</blockquote>
+<p>我很赞同引言的观点，跟人保持联系，才能更加容易的了解知识局限，定时更新三观。
+我以前的时候老是纠结一个问题，是跟人打交道还是跟机器打交道？最后选择了跟机器打交道，妄图来规避自己社交能力不足这个弱项。
+现在回头看，压根就不是一个选择题，跟人打交道是无可避免的，也是必需的。</p>
+<h4 id="避免盲目无效的社交"><a href="#避免盲目无效的社交" class="headerlink" title="避免盲目无效的社交"></a>避免盲目无效的社交</h4><p>社交手段确实有很多好处，但是现在很多人把“关系”、“社交”无限的夸大乃至神化到了一种病态的地步，大部分传授的都是溜须拍马谄媚之流。是酒桌饭后的谈资，是扯大旗吹牛的材料，唯独不是有效的社交。</p>
+<p>避免盲目无效的社交，需要看清楚两点：</p>
+<h5 id="所有的人都喜欢并重视甚至偏爱一种交换——公平交换。"><a href="#所有的人都喜欢并重视甚至偏爱一种交换——公平交换。" class="headerlink" title="所有的人都喜欢并重视甚至偏爱一种交换——公平交换。"></a>所有的人都喜欢并重视甚至偏爱一种交换——公平交换。</h5><p>首先，要承认自己能力有限，有公平交换的需要，保持一个良好的心态。
+我确实需要别人的帮助，我自身也有很多问题，那么在与人相处的时候自然也会待人更加的宽容。
+其次，公平交换的前提是价值相等，要提升自我的价值。
+再次，交换是有成本的– 时间成本，精力成本，不进行不必要的交换
+最后，学会独善其身，以不给他人制造麻烦为美德，用自己的独立赢得尊重</p>
+<h5 id="社交是需要方法的"><a href="#社交是需要方法的" class="headerlink" title="社交是需要方法的"></a>社交是需要方法的</h5><ul>
+<li>定期清理筛选自己的圈子，比如通讯录，朋友圈</li>
+<li>放低姿态去尊重每一个人，不再以“自我”为核心，承认人与人之间的差异</li>
+<li>寻找志同道合的伙伴，使用归属感激励他人和自己</li>
+<li>从共同点出发寻找更多的共识</li>
+</ul>
+<h4 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h4><p><a href="http://www.luanxiang.org/blog/archives/2188.html" target="_blank" rel="external">谈谈社交这回事</a>
+<a href="http://login.sina.com.cn/sso/login.php?useticket=0&amp;returntype=META&amp;service=blog&amp;gateway=1&amp;url=http://blog.sina.com.cn/s/blog_5df32d900102vovf.html" target="_blank" rel="external">放下你的无效社交</a>
+<a href="https://book.douban.com/subject/3405756/" target="_blank" rel="external">《生活的阴暗面》</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;谈谈社交这回事&quot;&gt;&lt;a href=&quot;#谈谈社交这回事&quot; class=&quot;headerlink&quot; title=&quot;谈谈社交这回事&quot;&gt;&lt;/a&gt;谈谈社交这回事&lt;/h3&gt;&lt;p&gt;我是一个不太有朋友而且也没有什么交朋友的技巧的人。
+作为技术宅，更是坚信只有技术才能创造价值。
+写代
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用rss和稍后阅读服务构建知识管理体系</title>
+    <link href="http://moxhuis.github.io/2017/07/20/%E4%BD%BF%E7%94%A8rss%E5%92%8C%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB%E6%9C%8D%E5%8A%A1%E6%9E%84%E5%BB%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB/"/>
+    <id>http://moxhuis.github.io/2017/07/20/使用rss和稍后阅读服务构建知识管理体系/</id>
+    <published>2017-07-20T15:56:44.000Z</published>
+    <updated>2017-07-21T00:57:55.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>互联网让获取信息的门槛变得足够低，无数人成为信息的制造者，每个人都可以轻松订阅各种资讯。我们受益于信息的充足，却有受困于信息的过载。秉着入口统一，层级划分的原则，我针对自己做了一套信息处理方案，希望可以达到 筛选-&gt; 记录 —&gt; 整理 —&gt; 优化流程的目的</p>
+</blockquote>
+<h3 id="总体逻辑"><a href="#总体逻辑" class="headerlink" title="总体逻辑"></a>总体逻辑</h3><p><img src="http://ww1.sinaimg.cn/large/6e20b33bgy1fhphkzjf5vj219g0qgq65.jpg" alt=""></p>
+<h3 id="RSS（Really-Simple-Syndication）服务获取信息"><a href="#RSS（Really-Simple-Syndication）服务获取信息" class="headerlink" title="RSS（Really Simple Syndication）服务获取信息"></a>RSS（Really Simple Syndication）服务获取信息</h3><blockquote>
+<p>RSS（简易信息聚合）是一种消息来源格式规范，用以聚合经常发布更新数据的网站，例如博客文章、新闻、音频或视频的网摘。RSS文件（或称做摘要、网络摘要、或频更新，提供到频道）包含全文或是节录的文字，再加上发布者所订阅之网摘数据和授权的元数据。Really Simple Syndication“聚合真的很简单”就是RSS的英文原意,把新闻标题、摘要（Feed）、内容按照用户的要求，“送”到用户的桌面就是RSS的目的 (from wiki)</p>
+</blockquote>
+<p>RSS文件会使用<code>xml</code>描述<code>标题</code>、<code>摘要</code>、<code>内容</code>，提供更佳简单纯粹的内容呈现、一目了然的阅读体验。
+我的目标是尽量归一使用rss获取信息。</p>
+<h4 id="Feedly作为RSS订阅服务"><a href="#Feedly作为RSS订阅服务" class="headerlink" title="Feedly作为RSS订阅服务"></a><a href="https://feedly.com/i/my" target="_blank" rel="external"><code>Feedly</code></a>作为RSS订阅服务</h4><p>主流的rss订阅服务有很多，对我而言，只是需要一个账号和基础服务就可以了，大部分功能都使用客户端去做就行。feedly 提供了移动端的应用，所以我选择了feedly（免费版）。</p>
+<h4 id="使用Reeder-3作为RSS订阅器"><a href="#使用Reeder-3作为RSS订阅器" class="headerlink" title="使用Reeder 3作为RSS订阅器"></a>使用<code>Reeder 3</code>作为RSS订阅器</h4><p><img src="http://ww1.sinaimg.cn/large/6e20b33bgy1fhpbb1zwt2j21z40z0ql4.jpg" alt="">
+“最好用的RSS订阅器”：
+<em> ui简约
+</em> 提供了多种分享保存功能
+* 可以绑定稍后阅读等服务</p>
+<h4 id="chrome插件配置rss嗅探工具"><a href="#chrome插件配置rss嗅探工具" class="headerlink" title="chrome插件配置rss嗅探工具"></a>chrome插件配置rss嗅探工具</h4><p><a href="https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd" target="_blank" rel="external"><code>RSS Subscription Extension</code></a></p>
+<p>插件会自动检测站点是否提供rss服务。</p>
+<p><img src="http://ww1.sinaimg.cn/large/6e20b33bgy1fhpc2jmu44j21xo13m7uo.jpg" alt=""></p>
+<p>配置订阅源到feedly.</p>
+<p><img src="http://ww1.sinaimg.cn/large/6e20b33bgy1fhpc4bwwdaj20se0csmyo.jpg" alt="">
+<img src="http://ww1.sinaimg.cn/large/6e20b33bgy1fhpc5yv2rlj21vy0s2adn.jpg" alt=""></p>
+<p>点击一键订阅到feedly。</p>
+<p><img src="/img/parser-modules-2.gif" alt=""></p>
+<h3 id="使用稍后阅读服务做信息筛选"><a href="#使用稍后阅读服务做信息筛选" class="headerlink" title="使用稍后阅读服务做信息筛选"></a>使用稍后阅读服务做信息筛选</h3><p>我使用稍后阅读服务，对rss和网页信息做信息的分层。
+相比于pocket ，我使用的是<a href="https://www.instapaper.com/archive" target="_blank" rel="external"><code>instapaper</code></a>。
+简单存粹，服务稳定，不需要别的功能。</p>
+<h4 id="配置instapaper浏览器插件"><a href="#配置instapaper浏览器插件" class="headerlink" title="配置instapaper浏览器插件"></a>配置instapaper浏览器插件</h4><p><img src="http://ww1.sinaimg.cn/large/6e20b33bgy1fhpgjd31izj20hs0b4jvv.jpg" alt="">
+<a href="https://chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh" target="_blank" rel="external">instapaper</a></p>
+<h4 id="reeder-3中整合-instapaper"><a href="#reeder-3中整合-instapaper" class="headerlink" title="reeder 3中整合 instapaper"></a>reeder 3中整合 instapaper</h4><p><img src="http://ww1.sinaimg.cn/large/6e20b33bgy1fhpgneqzfsj20xc0x80x5.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;互联网让获取信息的门槛变得足够低，无数人成为信息的制造者，每个人都可以轻松订阅各种资讯。我们受益于信息的充足，却有受困于信息的过载。秉着入口统一，层级划分的原则，我针对自己做了一套信息处理方案，希望可以达到 筛选-&amp;gt; 记录 —&amp;gt; 整理 
+    
+    </summary>
+    
+    
+      <category term="知识管理" scheme="http://moxhuis.github.io/tags/%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
+    
+      <category term="rss" scheme="http://moxhuis.github.io/tags/rss/"/>
+    
+      <category term="稍后阅读" scheme="http://moxhuis.github.io/tags/%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016年总结</title>
+    <link href="http://moxhuis.github.io/2016/12/26/2016%E5%B9%B4%E6%80%BB%E7%BB%93/"/>
+    <id>http://moxhuis.github.io/2016/12/26/2016年总结/</id>
+    <published>2016-12-26T13:31:08.000Z</published>
+    <updated>2017-07-20T16:08:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>即将过去的2016，是挑战之年，也是蜕变之年。</p>
+</blockquote>
+<p>年初前端架构组的正式组建，是公司快速发展，前端团队极速膨胀的需求。
+业务逐渐增加的繁冗和复杂，前端团队需要解决的问题也愈发明显：
+- <code>raycloud</code> 框架在新的业务场景之下逐渐暴露出问题 (<code>Raycloud</code>提供<code>hashchange router</code>和<code>模块定义</code>)
+- - 对于数据和视图并有没强制约束，加之<code>jquery</code>的频繁使用，数据层掺杂<code>dom</code>操作的代码屡见不鲜。
+- - 为了性能考虑，使用字符串拼接，代码可读性和可维护性非常之差。
+- - 没有提供完善的<code>component</code>机制,公用模块的种类很多</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;即将过去的2016，是挑战之年，也是蜕变之年。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;年初前端架构组的正式组建，是公司快速发展，前端团队极速膨胀的需求。
+业务逐渐增加的繁冗和复杂，前端团队需要解决的问题也愈发明显：
+- &lt;code&gt;rayclo
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>番茄工作法</title>
+    <link href="http://moxhuis.github.io/2016/06/30/%E7%95%AA%E8%8C%84%E5%B7%A5%E4%BD%9C%E6%B3%95/"/>
+    <id>http://moxhuis.github.io/2016/06/30/番茄工作法/</id>
+    <published>2016-06-30T14:46:50.000Z</published>
+    <updated>2017-05-24T03:09:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>事情很多，时间零碎，总是被打断
+适用于工作，学习，趣味性不足的任务。</p>
+</blockquote>
+<p>命名了一个番茄时间 – 25分钟</p>
+<p>基本套路：
+每天</p>
+<p>1.todo list
+    我要干嘛。。
+    我还要干嘛</p>
+<p>ps：相对合理，不要定死</p>
+<p>2.do
+    25min 一个番茄时间 
+    5min 休息时间<br>    …
+    最多4个tomato</p>
+<pre><code>大break 15-30min
+</code></pre><p>3.record
+    每个tomato都干嘛了</p>
+<p>4.分析
+    分析时间</p>
+<p>5.总结
+    一段时间的总结</p>
+<p>工具：
+    番茄钟
+    todo list
+    总表</p>
+<p>第二个套路</p>
+<p>处理打断</p>
+<p>坚持不了25分钟，，第一次基本会被打断10次</p>
+<p>＝＝》25分钟不可分割，打断就没有了</p>
+<p>打断：
+    内部打断：看看手机，，看看淘宝吧。。。。
+        内部打断怎么办？
+        通常都不是什么紧急的事情
+        so,分类，今天的，加todolist
+            某天做，加总表 +u
+        记完回去，，不算打断。</p>
+<pre><code>外部打断：
+    最多等我25分钟，
+    先记录，协商时间。（5分钟之后。。。）
+紧急打断：
+    推翻番茄钟，重新拟定todo list
+标记打断。
+正视打断，打断非常正常
+</code></pre><p>休息：
+    休息要立马停止任务
+    不要想任务，不讨论任务
+    4个番茄中，一个大休息</p>
+<p>分析：
+    分析的时间不要超过25分钟</p>
+<p>预估能力：
+    如果一个todo 超过了5个tomato,需要拆分。
+    如果一个todo 不足一个tomato,小的废弃，大的回忆，中间的凑。</p>
+<p>不要有负罪感，
+回忆和总结。</p>
+<p>tomato 去影响时间表</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;事情很多，时间零碎，总是被打断
+适用于工作，学习，趣味性不足的任务。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;命名了一个番茄时间 – 25分钟&lt;/p&gt;
+&lt;p&gt;基本套路：
+每天&lt;/p&gt;
+&lt;p&gt;1.todo list
+    我要干嘛。。
+    我
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用electron开发桌面端</title>
+    <link href="http://moxhuis.github.io/2016/06/22/%E4%BD%BF%E7%94%A8electron%E5%BC%80%E5%8F%91%E6%A1%8C%E9%9D%A2%E7%AB%AF/"/>
+    <id>http://moxhuis.github.io/2016/06/22/使用electron开发桌面端/</id>
+    <published>2016-06-22T01:29:01.000Z</published>
+    <updated>2017-01-09T09:50:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>现在前端想要开发个桌面端软件，已经是件非常简单的事情了。
+<em> electron(atom-shell): ATOM,VSCode,
+</em> NW.js(node-webkit): 钉钉
+* heX:有道词典</p>
+<h4 id="Electron-是什么？"><a href="#Electron-是什么？" class="headerlink" title="Electron 是什么？"></a>Electron 是什么？</h4><p>Electron 是一款可以利用 Web技术 开发跨平台桌面应用的框架，最初是 Github 发布的 Atom 编辑器衍生出的 Atom Shell，后更名为 Electron。
+继承了Chromium + Node.js。
+因此可以使用 HTML 和 CSS 来实现应用的 GUI 界面，用 JavaScript 调用丰富的原生 API 实现桌面应用。</p>
+<p>简单点就是，以前我们开发的都是Web应用,很多东西都被浏览器给限制了,跨域，同源，http-only,不能读写文件,balabala..
+如果浏览器也属于我们自己，不是就是个桌面软件啦？</p>
+<h4 id="为什么选择Electron？"><a href="#为什么选择Electron？" class="headerlink" title="为什么选择Electron？"></a>为什么选择Electron？</h4><p>作为一个电子系出身的前端工程师，我果断选择了electron。（开玩笑的）
+<em> 更新，用的人更多。
+</em> 性能更好。
+<em> 文档更加丰富。
+</em> 丰富的工具支持。
+* electron的更新速度特别快，最新版本的环境支持：</p>
+<blockquote>
+<p>Electron: 1.2.3    Node: 6.1.0    Chromium: 51.0.2704.84    V8: 5.1.281.59</p>
+</blockquote>
+<p>Node: 6.1.0 – 这就意味着，完全支持es6,除了module那一块。</p>
+<h4 id="Electron-流程"><a href="#Electron-流程" class="headerlink" title="Electron 流程"></a>Electron 流程</h4><ul>
+<li>启动的时候调用package.json中定义的main</li>
+<li>main文件会创建一个内含渲染完的web页面的应用窗口</li>
+<li>添加与你操作系统的原生GUI（图形界面）交互的功能</li>
+<li>web页面定义应用内部交互</li>
+</ul>
+<p><img src="http://ww2.sinaimg.cn/large/6e20b33bgw1f53rssknozj20l80iqjsy.jpg" alt=""></p>
+<h4 id="让我们来看代码"><a href="#让我们来看代码" class="headerlink" title="让我们来看代码"></a>让我们来看代码</h4><p>main.js</p>
+<p><img src="http://ww1.sinaimg.cn/large/6e20b33bgw1f53ryumtcoj20s00jm0v1.jpg" alt=""></p>
+<p>index.js</p>
+<p>渲染web页面的应用窗口</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="keyword">function</span> <span class="title">createWindow</span>(<span class="params"></span>) </span>&#123;</div><div class="line">    <span class="comment">// Create the browser window.</span></div><div class="line">    mainWindow = <span class="keyword">new</span> BrowserWindow(&#123;</div><div class="line">        <span class="attr">width</span>: <span class="number">360</span>,</div><div class="line">        <span class="attr">minHeight</span>: <span class="number">572</span>,</div><div class="line">        <span class="attr">resizable</span>: <span class="literal">false</span>,</div><div class="line">        <span class="attr">title</span>: <span class="string">'WeFlow'</span>,</div><div class="line">        <span class="attr">icon</span>: logo</div><div class="line">    &#125;);</div><div class="line"></div><div class="line">    <span class="comment">// and load the index.html of the app.</span></div><div class="line">    mainWindow.loadURL(<span class="string">'file://'</span> + __dirname + <span class="string">'/app.html'</span>);</div><div class="line"></div><div class="line">    <span class="comment">// Open the DevTools.</span></div><div class="line">    mainWindow.webContents.openDevTools();</div><div class="line"></div><div class="line">    mainWindow.on(<span class="string">'close'</span>, <span class="function"><span class="keyword">function</span> (<span class="params">event</span>) </span>&#123;</div><div class="line">        <span class="keyword">if</span> (process.platform !== <span class="string">'win32'</span> &amp;&amp; !willClose) &#123;</div><div class="line">            app.hide();</div><div class="line">            event.preventDefault();</div><div class="line">        &#125;</div><div class="line">    &#125;);</div><div class="line"></div><div class="line">    <span class="comment">// Emitted when the window is closed.</span></div><div class="line">    mainWindow.on(<span class="string">'closed'</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</div><div class="line">        <span class="comment">// Dereference the window object, usually you would store windows</span></div><div class="line">        <span class="comment">// in an array if your app supports multi windows, this is the time</span></div><div class="line">        <span class="comment">// when you should delete the corresponding element.</span></div><div class="line">        mainWindow = <span class="literal">null</span>;</div><div class="line">    &#125;);</div><div class="line"></div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">// This method will be called when Electron has finished</span></div><div class="line"><span class="comment">// initialization and is ready to create browser windows.</span></div><div class="line">app.on(<span class="string">'ready'</span>, createWindow);</div></pre></td></tr></table></figure>
+<p>系统跟app的交互
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// This method will be called when Electron has finished</span></div><div class="line"><span class="comment">// initialization and is ready to create browser windows.</span></div><div class="line">app.on(<span class="string">'ready'</span>, createWindow);</div><div class="line"></div><div class="line"><span class="comment">// Quit when all windows are closed.</span></div><div class="line">app.on(<span class="string">'window-all-closed'</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</div><div class="line">    <span class="comment">// On OS X it is common for applications and their menu bar</span></div><div class="line">    <span class="comment">// to stay active until the user quits explicitly with Cmd + Q</span></div><div class="line">    <span class="keyword">if</span> (process.platform !== <span class="string">'darwin'</span>) &#123;</div><div class="line">        app.quit();</div><div class="line">    &#125;</div><div class="line">&#125;);</div><div class="line"></div><div class="line">app.on(<span class="string">'before-quit'</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</div><div class="line">    willClose = <span class="literal">true</span>;</div><div class="line">&#125;);</div><div class="line"></div><div class="line"></div><div class="line">app.on(<span class="string">'activate'</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</div><div class="line">    <span class="comment">// On OS X it's common to re-create a window in the app when the</span></div><div class="line">    <span class="comment">// dock icon is clicked and there are no other windows open.</span></div><div class="line">    <span class="keyword">if</span> (mainWindow === <span class="literal">null</span>) &#123;</div><div class="line">        createWindow();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    app.show();</div><div class="line">&#125;);</div></pre></td></tr></table></figure></p>
+<p>Main 跟 Render 通信</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//Main.js</span></div><div class="line">ipc.on(<span class="string">'checkForUpdate'</span>, <span class="function"><span class="keyword">function</span> (<span class="params">event, status</span>) </span>&#123;</div><div class="line">    <span class="keyword">let</span> options = &#123;&#125;;</div><div class="line"></div><div class="line">    <span class="keyword">if</span>(status)&#123;</div><div class="line">        options = &#123;</div><div class="line">            <span class="attr">type</span>: <span class="string">'info'</span>,</div><div class="line">            <span class="attr">title</span>: <span class="string">'检查更新...'</span>,</div><div class="line">            <span class="attr">message</span>: <span class="string">"当前已有新版本, 请更新"</span>,</div><div class="line">            <span class="attr">buttons</span>: [<span class="string">'点击下载最新版本'</span>, <span class="string">'稍后提醒我'</span>]</div><div class="line">        &#125;</div><div class="line">    &#125;<span class="keyword">else</span>&#123;</div><div class="line">        options = &#123;</div><div class="line">            <span class="attr">type</span>: <span class="string">'info'</span>,</div><div class="line">            <span class="attr">title</span>: <span class="string">'检查更新...'</span>,</div><div class="line">            <span class="attr">message</span>: <span class="string">"当前为最新版本, 不需要更新"</span>,</div><div class="line">            <span class="attr">buttons</span>: [<span class="string">'确定'</span>]</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    dialog.showMessageBox(options, <span class="function"><span class="keyword">function</span> (<span class="params">index</span>) </span>&#123;</div><div class="line">        event.sender.send(<span class="string">'checkForUpdateReply'</span>, index, status);</div><div class="line">    &#125;);</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">ipc.send(<span class="string">'checkForUpdate'</span>, <span class="number">1</span>);</div><div class="line">ipc.on(<span class="string">'checkForUpdateReply'</span>, <span class="function"><span class="keyword">function</span> (<span class="params">event, index, status</span>) </span>&#123;</div><div class="line">    <span class="keyword">if</span>(status)&#123;</div><div class="line">        <span class="keyword">if</span>(index === <span class="number">1</span>)&#123;</div><div class="line">            alert(<span class="string">'哈哈哈, 你真的以为我等下会提醒你吗?赶紧去下载最新版本吧！'</span>);</div><div class="line">        &#125;<span class="keyword">else</span>&#123;</div><div class="line">            shell.openExternal(Common.DOWNLOADURL);</div><div class="line">        &#125;</div><div class="line">    &#125;</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
+<p>Render定义交互
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//绑定任务按钮事件</span></div><div class="line">$(<span class="string">'#js-tasks'</span>).find(<span class="string">'.tasks__button'</span>).on(<span class="string">'click'</span>, <span class="function"><span class="keyword">function</span> (<span class="params"></span>) </span>&#123;</div><div class="line"></div><div class="line">    <span class="keyword">let</span> taskName = $(<span class="keyword">this</span>).data(<span class="string">'task'</span>);</div><div class="line"></div><div class="line">    runTask(taskName);</div><div class="line"></div><div class="line">&#125;);</div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;现在前端想要开发个桌面端软件，已经是件非常简单的事情了。
+&lt;em&gt; electron(atom-shell): ATOM,VSCode,
+&lt;/em&gt; NW.js(node-webkit): 钉钉
+* heX:有道词典&lt;/p&gt;
+&lt;h4 id=&quot;Electron-是什么？&quot;&gt;&lt;
+    
+    </summary>
+    
+    
+      <category term="electron" scheme="http://moxhuis.github.io/tags/electron/"/>
+    
+      <category term="桌面端" scheme="http://moxhuis.github.io/tags/%E6%A1%8C%E9%9D%A2%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
